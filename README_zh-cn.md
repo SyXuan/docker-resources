@@ -1,8 +1,8 @@
 # Docker Resources All In One
 docker资源汇总。现在更新较慢，非常欢迎诸位提PR更新。
 
-英文版本[链接](https://github.com/hangyan/docker-resources)  
-繁體中文版本[連結](https://github.com/hangyan/docker-resources/blob/master/README_zh-tw.md)  
+英文版本[链接](https://github.com/syxuan/docker-resources)  
+繁體中文版本[連結](https://github.com/syxuan/docker-resources/blob/master/README_zh-tw.md)  
   
 # 目录
 * [资源汇集](#资源汇集)
