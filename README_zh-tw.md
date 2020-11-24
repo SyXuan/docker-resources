@@ -10,18 +10,18 @@ docker資源匯總。現在更新較慢，非常歡迎諸位提PR更新。
   * [網站](#網站)
   * [開源文檔](#開源文檔)
   * [內容聚合](#內容聚合)
-  * [社區部落格](#社區部落格)
+  * [社群部落格](#社群部落格)
   * [個人部落格](#個人部落格)
   * [創業公司](#創業公司)
   * [鏡像中心](#鏡像中心)
-* [相關項目](#相關項目)
+* [相關專案](#相關專案)
   * [作業系統](#作業系統)
   * [虛擬機](#虛擬機)
   * [競爭者](#競爭者)
   * [管理工具](#管理工具)
   * [Paas平台](#paas平台)
   * [Caas平台](#caas平台)
-  * [項目集成](#項目集成)
+  * [整合專案](#整合專案)
   * [監控](#監控)
   * [網路](#網路)
   * [持續集成](#持續集成)
@@ -40,7 +40,7 @@ docker資源匯總。現在更新較慢，非常歡迎諸位提PR更新。
   * [客戶端](#客戶端)
   * [檔案分享和同步](#檔案分享和同步)
   * [其他](#其他)
-* [博文](#博文)
+* [部落格](#部落格)
   * [介紹](#介紹)
   * [Docker技術](#docker技術)
     * [鏡像相關](#鏡像相關)
@@ -55,7 +55,7 @@ docker資源匯總。現在更新較慢，非常歡迎諸位提PR更新。
     * [私有倉庫相關](#私有倉庫相關)
     * [API](#API)
     * [性能](#性能)
-    * [進程管理](#進程管理)
+    * [Process管理](#Process管理)
   * [思考](#思考)
   * [Rocket](#rocket)
   * [底層技術](#底層技術)
@@ -63,7 +63,7 @@ docker資源匯總。現在更新較慢，非常歡迎諸位提PR更新。
     * [cgroups](#cgroups)
     * [Systemd](#systemd)
     * [Namespaces](#namespaces)
-  * [相關項目](#相關項目)
+  * [相關專案](#相關專案)
     * [Compose](#compose)
     * [Swarm](#swarm)
     * [Mesosphere](#mesosphere)
@@ -102,7 +102,7 @@ docker資源匯總。現在更新較慢，非常歡迎諸位提PR更新。
 ## 網站
 ### 英文
 * [官方文檔](https://docs.docker.com/) 
-* [Docker項目地址](https://github.com/docker/docker)
+* [Docker專案地址](https://github.com/docker/docker)
 * [Dockerhub](https://docs.docker.com/docker-hub/)
 * [Coreos官方文檔](https://coreos.com/docs/)
 
@@ -111,7 +111,7 @@ docker資源匯總。現在更新較慢，非常歡迎諸位提PR更新。
 * [Docker中文](http://www.docker.org.cn/) 
 * [Dockerone](http://dockerone.com/)
 * [infoq Docker專欄](http://www.infoq.com/cn/dockers/)
-* [CSDN Docker 社區](http://docker.csdn.net/)
+* [CSDN Docker 社群](http://docker.csdn.net/)
 
 ## 開源文檔
 * [Docker中文指南](https://github.com/widuu/chinese_docker)  (中文，品質一般，較老)
@@ -125,11 +125,11 @@ docker資源匯總。現在更新較慢，非常歡迎諸位提PR更新。
 * [Valuable Docker Links](http://www.nkode.io/2014/08/24/valuable-docker-links.html)
 * [Docker Ecosystem](https://www.mindmeister.com/389671722/docker-ecosystem)
 * [Digital Ocean Community](https://www.digitalocean.com/community/search?primary_filter=tutorials&query=docker)
-* [開源中國社區Docker技術翻譯文章](http://www.oschina.net/translate/tag/docker)
+* [開源中國社群Docker技術翻譯文章](http://www.oschina.net/translate/tag/docker)
 * [Dockerone周報](http://weekly.dockerone.com/index)
 * [InfoQ](http://www.infoq.com/cn/dockers/)
 
-## 社區部落格
+## 社群部落格
 * [Docker官方部落格](http://blog.docker.com/)
 * [Coreos官方部落格](https://coreos.com/blog/)
 * [Century Links Labs](http://www.centurylinklabs.com/category/docker/)
@@ -167,7 +167,7 @@ docker資源匯總。現在更新較慢，非常歡迎諸位提PR更新。
 * [靈雀雲鏡像中心](https://hub.alauda.cn/)
 * [時速雲鏡像中心](https://www.tenxcloud.com/marketplace)
 
-# 相關項目
+# 相關專案
 ## 作業系統
 * [Coreos](https://coreos.com/) (比較成熟)
 * [Atomic](http://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) (新出，內置kubernetes)
@@ -237,7 +237,7 @@ docker資源匯總。現在更新較慢，非常歡迎諸位提PR更新。
 * [Docker Datacenter](https://www.docker.com/products/docker-datacenter)
 * [Aluda](http://www.alauda.cn/)(靈雀雲容器服務) (英文版[Alauda.io](http://www.alauda.io/))
 
-## 項目集成
+## 整合專案
 * [openstack-docker](https://github.com/docker/openstack-docker) (Nova driver and Glance backend to use Docker inside OpenStack)
 * [Jenkins Cloud Plugin for Docker](https://github.com/jenkinsci/docker-plugin/)
 * [deimos](https://github.com/mesosphere/deimos) (Mesos containerizer hooks for Docker)
@@ -409,7 +409,7 @@ docker資源匯總。現在更新較慢，非常歡迎諸位提PR更新。
 * [habitus](https://github.com/cloud66/habitus)(A Build Flow Tool for Docker)
 * [ofelia](https://github.com/mcuadros/ofelia) (A docker job scheduler (aka. crontab for docker))
 
-# 博文
+# 部落格
 ## 介紹
 * [The Frontend Developer's Guide to Docker](http://www.bryanbraun.com/2014/07/15/the-frontend-developers-guide-to-docker)
 * [Docker and Go: why did we decide to write Docker in Go?](http://pan.baidu.com/s/1qWlybDE)(pdf)
@@ -526,7 +526,7 @@ docker資源匯總。現在更新較慢，非常歡迎諸位提PR更新。
 * [Docker network performances](http://blog.loof.fr/2014/10/docker-network-performances.html)
 * [Docker Containers: Smaller is not always better](http://matthewkwilliams.com/index.php/2015/04/19/docker-containers-smaller-is-not-always-better/)
 
-### 進程管理
+### Process管理
 * [Running systemd within a Docker Container](http://developerblog.redhat.com/2014/05/05/running-systemd-within-docker-container/)
 
 ## 思考
@@ -583,7 +583,7 @@ docker資源匯總。現在更新較慢，非常歡迎諸位提PR更新。
 * [Docker背後的內核知識——Namespace資源隔離](http://www.infoq.com/cn/articles/docker-kernel-knowledge-namespace-resource-isolation)
 
 
-## 相關項目
+## 相關專案
 ### Compose
 * [Docker Compose](http://docs.docker.com/compose/)
 * [Announcing Docker Compose
