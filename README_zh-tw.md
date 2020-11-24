@@ -1,9 +1,9 @@
 # Docker Resources All In One
 docker資源匯總。現在更新較慢，非常歡迎諸位提PR更新。
 
-英文版本[鏈接](https://github.com/hangyan/docker-resources)
-简体中文版本[链接](https://github.com/hangyan/docker-resources/blob/master/README_zh-cn.md)
-
+英文版本[鏈接](https://github.com/hangyan/docker-resources)  
+简体中文版本[链接](https://github.com/hangyan/docker-resources/blob/master/README_zh-cn.md)  
+  
 # 目錄
 * [資源彙集](#資源彙集)
   * [書籍](#書籍)
@@ -38,6 +38,7 @@ docker資源匯總。現在更新較慢，非常歡迎諸位提PR更新。
   * [容器](#容器)
   * [擴展](#擴展)
   * [客戶端](#客戶端)
+  * [檔案分享和同步](#檔案分享和同步)
   * [其他](#其他)
 * [博文](#博文)
   * [介紹](#介紹)
@@ -392,6 +393,9 @@ docker資源匯總。現在更新較慢，非常歡迎諸位提PR更新。
 * [docker-php](https://github.com/stage1/docker-php) (**PHP**)
 * [dockerclient](https://github.com/samalba/dockerclient) (**Golang**)
 * [docker-java](https://github.com/kpelykh/docker-java) (**Java**)
+
+## 檔案分享和同步
+* [SimpleTorrent](https://github.com/boypt/simple-torrent) (**Golang**)
 
 ## 其他
 * [dockersh](https://github.com/Yelp/dockersh) (A shell which places users into individual docker containers)

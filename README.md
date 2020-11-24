@@ -1,9 +1,9 @@
 # Docker Resources All In One
 A collection of docker online resources.
 
-繁體中文版本[連結](https://github.com/hangyan/docker-resources/blob/master/README_zh-tw.md)
-简体中文版本[链接](https://github.com/hangyan/docker-resources/blob/master/README_zh-cn.md)
-
+繁體中文版本[連結](https://github.com/hangyan/docker-resources/blob/master/README_zh-tw.md)  
+简体中文版本[链接](https://github.com/hangyan/docker-resources/blob/master/README_zh-cn.md)  
+  
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
 
 # Menu
@@ -40,6 +40,7 @@ A collection of docker online resources.
   * [Containers](#containers)
   * [Extensions](#extensions)
   * [API Client](#api-client)
+  * [File Sharing and Synchronization](#file-sharing-and-synchronization)
   * [Others](#others)
 * [Blog Posts](#blog-posts)
   * [General](#general)
@@ -376,6 +377,10 @@ A collection of docker online resources.
 * [docker-php](https://github.com/stage1/docker-php) (**PHP**)
 * [dockerclient](https://github.com/samalba/dockerclient) (**Golang**)
 * [docker-java](https://github.com/kpelykh/docker-java) (**Java**)
+
+
+## File Sharing and Synchronization
+* [SimpleTorrent](https://github.com/boypt/simple-torrent) (**Golang**)
 
 ## Others
 * [dockersh](https://github.com/Yelp/dockersh) (A shell which places users into individual docker containers)
