@@ -1,7 +1,8 @@
 # Docker Resources All In One
 A collection of docker online resources.
 
-中文版本[链接](https://github.com/hangyan/docker-resources/blob/master/README_zh.md)
+繁體中文版本[連結](https://github.com/hangyan/docker-resources/blob/master/README_zh-tw.md)
+简体中文版本[链接](https://github.com/hangyan/docker-resources/blob/master/README_zh-cn.md)
 
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
 
